@@ -1,0 +1,134 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FSPagerViewLayoutAttributes"
+provides-nominal:
+- "11FSPagerView0aB16LayoutAttributesC"
+provides-member:
+- ["11FSPagerView0aB16LayoutAttributesC", ""]
+provides-dynamic-lookup:
+- "copy"
+- "isEqual"
+depends-top-level:
+- !private "&&"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "CGFloat"
+- "CastingPrecedence"
+- "FSPagerViewLayoutAttributes"
+- "NSZone"
+- "UICollectionViewLayoutAttributes"
+depends-member:
+- !private ["s7CVarArgP", "copy"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEqual"]
+- !private ["s7CVarArgP", "position"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "copy"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEqual"]
+- !private ["s28CustomDebugStringConvertibleP", "position"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "copy"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEqual"]
+- !private ["s23CustomStringConvertibleP", "position"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "copy"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isEqual"]
+- !private ["s9EquatableP", "position"]
+- ["s9EquatableP", ""]
+- ["11FSPagerView0aB16LayoutAttributesC", "Bool"]
+- ["11FSPagerView0aB16LayoutAttributesC", "CGFloat"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "FSPagerViewLayoutAttributes"]
+- ["11FSPagerView0aB16LayoutAttributesC", "NSZone"]
+- ["11FSPagerView0aB16LayoutAttributesC", "copy"]
+- ["11FSPagerView0aB16LayoutAttributesC", "deinit"]
+- ["11FSPagerView0aB16LayoutAttributesC", "init"]
+- ["11FSPagerView0aB16LayoutAttributesC", "isEqual"]
+- ["11FSPagerView0aB16LayoutAttributesC", "position"]
+- !private ["s8HashableP", "copy"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isEqual"]
+- !private ["s8HashableP", "position"]
+- ["s8HashableP", ""]
+- !private ["So9NSCopyingP", "copy"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "isEqual"]
+- !private ["So9NSCopyingP", "position"]
+- ["So9NSCopyingP", ""]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "CGFloat"]
+- !private ["So8NSObjectC", "FSPagerViewLayoutAttributes"]
+- ["So8NSObjectC", "NSZone"]
+- ["So8NSObjectC", "copy"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isEqual"]
+- ["So8NSObjectC", "position"]
+- !private ["So16NSObjectProtocolP", "copy"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isEqual"]
+- !private ["So16NSObjectProtocolP", "position"]
+- ["So16NSObjectProtocolP", ""]
+- ["So32UICollectionViewLayoutAttributesC", "Bool"]
+- ["So32UICollectionViewLayoutAttributesC", "CGFloat"]
+- !private ["So32UICollectionViewLayoutAttributesC", "FSPagerViewLayoutAttributes"]
+- ["So32UICollectionViewLayoutAttributesC", "NSZone"]
+- ["So32UICollectionViewLayoutAttributesC", "copy"]
+- ["So32UICollectionViewLayoutAttributesC", "init"]
+- ["So32UICollectionViewLayoutAttributesC", "isEqual"]
+- ["So32UICollectionViewLayoutAttributesC", "position"]
+- ["So32UICollectionViewLayoutAttributesC", ""]
+- !private ["So13UIDynamicItemP", "copy"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "isEqual"]
+- !private ["So13UIDynamicItemP", "position"]
+- ["So13UIDynamicItemP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "copy"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEqual"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "position"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "11FSPagerView0aB16LayoutAttributesC"
+- "s8HashableP"
+- "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So32UICollectionViewLayoutAttributesC"
+- "So13UIDynamicItemP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/FSPagerView/FSPagerView-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FSPagerView.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "dea097acc36ce7a65cb840312cd48ad4"

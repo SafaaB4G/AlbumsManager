@@ -1,0 +1,145 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/AppDelegate.swift",
+      "line": 10,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/AppDelegate.swift",
+      "line": 25,
+      "symbol": "AppDelegate.application(_:open:options:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ImageUploadManager.swift",
+      "line": 8,
+      "symbol": "Constants.ImageFB.imagesFolder",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 216,
+      "symbol": "ViewController.facebookImagePicker(imagePicker:successImageModels:errorImageModels:errors:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 229,
+      "symbol": "ViewController.facebookImagePicker(imagePicker:didFailWithError:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 235,
+      "symbol": "ViewController.facebookImagePicker(didCancelled:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 240,
+      "symbol": "ViewController.facebookImagePickerDismissed()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 247,
+      "symbol": "ViewController.prefersStatusBarHidden",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 251,
+      "symbol": "ViewController.preferredStatusBarStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 322,
+      "symbol": "ViewController.collectionView(_:layout:sizeForItemAtIndexPath:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 354,
+      "symbol": "ViewController.willDismissAtPageIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 362,
+      "symbol": "ViewController.willShowActionSheet(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 366,
+      "symbol": "ViewController.didDismissAtPageIndex(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 370,
+      "symbol": "ViewController.didDismissActionSheetWithButtonIndex(_:photoIndex:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 374,
+      "symbol": "ViewController.removePhoto(index:reload:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 378,
+      "symbol": "ViewController.viewForPhoto(_:index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 386,
+      "symbol": "ViewController.setupTestData()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 413,
+      "symbol": "CollectionViewCell.CollectionViewCell",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 415,
+      "symbol": "CollectionViewCell.awakeFromNib()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift",
+      "line": 426,
+      "symbol": "CollectionViewCell.prepareForReuse()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/nabil/Downloads/AlbumsMnager"
+}

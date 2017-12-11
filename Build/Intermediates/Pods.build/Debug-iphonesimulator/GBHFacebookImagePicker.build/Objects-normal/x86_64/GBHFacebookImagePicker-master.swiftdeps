@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "52451026a0c75950bbb408e81d47b881"
+build_time: [1512747537, 137420000]
+inputs:
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/View/GBHAlbumTableViewCell.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Manager/GBHAppearanceManager.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Model/GBHAssetImage.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Manager/GBHAssetManager.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Model/GBHFacebookAlbum.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Controller/GBHFacebookAlbumPicker.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Model/GBHFacebookImage.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Controller/GBHFacebookImagePicker.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Controller/GBHFacebookImagePickerDelegate.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Manager/GBHFacebookManager.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Controller/GBHFacebookNavigationController.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Model/GBHFacebookPickerConfig.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Model/GBHFacebookPickerCustomError.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Manager/GBHImageCacheManager.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/View/GBHImageViewAsynchLoading.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Model/GBHNotificationName.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/View/GBHPhotoCollectionViewCell.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/Controller/GBHPhotoPickerViewController.swift": [1512306108, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/GBHFacebookImagePicker/GBHFacebookImagePicker/Classes/View/GBHSelectedView.swift": [1512306108, 0]

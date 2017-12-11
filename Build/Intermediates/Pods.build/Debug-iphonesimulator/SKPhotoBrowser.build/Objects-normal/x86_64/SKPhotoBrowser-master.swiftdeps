@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "6e45b3480aee14cb4d303588c570eaf4"
+build_time: [1512747519, 301254000]
+inputs:
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKAnimator.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKButtons.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKCache.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKCacheable.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKCaptionView.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKDetectingImageView.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKDetectingView.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKIndicatorView.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKLocalPhoto.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKMesurement.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPagingScrollView.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhoto.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowserDelegate.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowserOptions.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKToolbar.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKZoomingScrollView.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/extensions/UIImage+Rotation.swift": [1512343188, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/extensions/UIView+Radius.swift": [1512343188, 0]

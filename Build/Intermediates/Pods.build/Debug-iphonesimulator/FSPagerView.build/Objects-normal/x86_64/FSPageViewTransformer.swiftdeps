@@ -1,0 +1,737 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FSPagerViewTransformerType"
+- "FSPagerViewTransformer"
+provides-nominal:
+- "11FSPagerView0aB15TransformerTypeO"
+- "11FSPagerView0aB11TransformerC"
+provides-member:
+- ["11FSPagerView0aB15TransformerTypeO", ""]
+- ["11FSPagerView0aB11TransformerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "*"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "..."
+- !private "..<"
+- !private "/"
+- !private "<"
+- "=="
+- "AssignmentPrecedence"
+- !private "CATransform3DIdentity"
+- !private "CATransform3DRotate"
+- !private "CATransform3DTranslate"
+- !private "CGAffineTransform"
+- "CGFloat"
+- "FSPagerView"
+- "FSPagerViewLayoutAttributes"
+- "FSPagerViewTransformer"
+- "FSPagerViewTransformerType"
+- "FloatLiteralType"
+- "Int"
+- "IntegerLiteralType"
+- "NSObject"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- !private "abs"
+- !private "max"
+- !private "min"
+- !private "sin"
+- !private "~="
+depends-member:
+- !private ["s19BinaryFloatingPointP", "greatestFiniteMagnitude"]
+- !private ["s19BinaryFloatingPointP", "init"]
+- !private ["s19BinaryFloatingPointP", "pi"]
+- !private ["s13BinaryIntegerP", "hashValue"]
+- !private ["s13BinaryIntegerP", "init"]
+- !private ["s13BinaryIntegerP", "min"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "interitemSpacing"]
+- !private ["So15CALayerDelegateP", "itemSize"]
+- !private ["So15CALayerDelegateP", "scrollDirection"]
+- !private ["SC13CATransform3DV", "m34"]
+- !private ["SC17CGAffineTransformV", "a"]
+- !private ["SC17CGAffineTransformV", "d"]
+- !private ["SC17CGAffineTransformV", "identity"]
+- !private ["SC17CGAffineTransformV", "init"]
+- !private ["SC17CGAffineTransformV", "rotated"]
+- !private ["SC17CGAffineTransformV", "translatedBy"]
+- !private ["SC17CGAffineTransformV", "tx"]
+- !private ["SC17CGAffineTransformV", "ty"]
+- !private ["12CoreGraphics7CGFloatV", "greatestFiniteMagnitude"]
+- !private ["12CoreGraphics7CGFloatV", "init"]
+- !private ["12CoreGraphics7CGFloatV", "pi"]
+- !private ["SC7CGPointV", "x"]
+- !private ["SC7CGPointV", "y"]
+- !private ["SC6CGRectV", "height"]
+- !private ["SC6CGRectV", "width"]
+- !private ["SC6CGSizeV", "width"]
+- !private ["s7CVarArgP", "CATransform3DIdentity"]
+- !private ["s7CVarArgP", "CATransform3DRotate"]
+- !private ["s7CVarArgP", "CATransform3DTranslate"]
+- !private ["s7CVarArgP", "CGAffineTransform"]
+- !private ["s7CVarArgP", "CGFloat"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "abs"]
+- !private ["s7CVarArgP", "alpha"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "center"]
+- !private ["s7CVarArgP", "greatestFiniteMagnitude"]
+- !private ["s7CVarArgP", "hashValue"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "interitemSpacing"]
+- !private ["s7CVarArgP", "itemSize"]
+- !private ["s7CVarArgP", "max"]
+- !private ["s7CVarArgP", "min"]
+- !private ["s7CVarArgP", "minimumAlpha"]
+- !private ["s7CVarArgP", "minimumScale"]
+- !private ["s7CVarArgP", "pagerView"]
+- !private ["s7CVarArgP", "pi"]
+- !private ["s7CVarArgP", "position"]
+- !private ["s7CVarArgP", "proposedInteritemSpacing"]
+- !private ["s7CVarArgP", "scrollDirection"]
+- !private ["s7CVarArgP", "sin"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s7CVarArgP", "transform3D"]
+- !private ["s7CVarArgP", "type"]
+- !private ["s7CVarArgP", "zIndex"]
+- ["s7CVarArgP", ""]
+- !private ["s10ComparableP", "greatestFiniteMagnitude"]
+- !private ["s10ComparableP", "hashValue"]
+- !private ["s10ComparableP", "init"]
+- !private ["s10ComparableP", "min"]
+- !private ["s10ComparableP", "pi"]
+- !private ["s28CustomDebugStringConvertibleP", "CATransform3DIdentity"]
+- !private ["s28CustomDebugStringConvertibleP", "CATransform3DRotate"]
+- !private ["s28CustomDebugStringConvertibleP", "CATransform3DTranslate"]
+- !private ["s28CustomDebugStringConvertibleP", "CGAffineTransform"]
+- !private ["s28CustomDebugStringConvertibleP", "CGFloat"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "abs"]
+- !private ["s28CustomDebugStringConvertibleP", "alpha"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "center"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "interitemSpacing"]
+- !private ["s28CustomDebugStringConvertibleP", "itemSize"]
+- !private ["s28CustomDebugStringConvertibleP", "max"]
+- !private ["s28CustomDebugStringConvertibleP", "min"]
+- !private ["s28CustomDebugStringConvertibleP", "minimumAlpha"]
+- !private ["s28CustomDebugStringConvertibleP", "minimumScale"]
+- !private ["s28CustomDebugStringConvertibleP", "pagerView"]
+- !private ["s28CustomDebugStringConvertibleP", "pi"]
+- !private ["s28CustomDebugStringConvertibleP", "position"]
+- !private ["s28CustomDebugStringConvertibleP", "proposedInteritemSpacing"]
+- !private ["s28CustomDebugStringConvertibleP", "scrollDirection"]
+- !private ["s28CustomDebugStringConvertibleP", "sin"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "transform3D"]
+- !private ["s28CustomDebugStringConvertibleP", "type"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s28CustomDebugStringConvertibleP", "x"]
+- !private ["s28CustomDebugStringConvertibleP", "y"]
+- !private ["s28CustomDebugStringConvertibleP", "zIndex"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hashValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "min"]
+- !private ["s29CustomPlaygroundQuickLookableP", "pi"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "x"]
+- !private ["s29CustomPlaygroundQuickLookableP", "y"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "greatestFiniteMagnitude"]
+- !private ["s17CustomReflectableP", "hashValue"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "min"]
+- !private ["s17CustomReflectableP", "pi"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s17CustomReflectableP", "x"]
+- !private ["s17CustomReflectableP", "y"]
+- !private ["s23CustomStringConvertibleP", "CATransform3DIdentity"]
+- !private ["s23CustomStringConvertibleP", "CATransform3DRotate"]
+- !private ["s23CustomStringConvertibleP", "CATransform3DTranslate"]
+- !private ["s23CustomStringConvertibleP", "CGAffineTransform"]
+- !private ["s23CustomStringConvertibleP", "CGFloat"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "abs"]
+- !private ["s23CustomStringConvertibleP", "alpha"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "center"]
+- !private ["s23CustomStringConvertibleP", "greatestFiniteMagnitude"]
+- !private ["s23CustomStringConvertibleP", "hashValue"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "interitemSpacing"]
+- !private ["s23CustomStringConvertibleP", "itemSize"]
+- !private ["s23CustomStringConvertibleP", "max"]
+- !private ["s23CustomStringConvertibleP", "min"]
+- !private ["s23CustomStringConvertibleP", "minimumAlpha"]
+- !private ["s23CustomStringConvertibleP", "minimumScale"]
+- !private ["s23CustomStringConvertibleP", "pagerView"]
+- !private ["s23CustomStringConvertibleP", "pi"]
+- !private ["s23CustomStringConvertibleP", "position"]
+- !private ["s23CustomStringConvertibleP", "proposedInteritemSpacing"]
+- !private ["s23CustomStringConvertibleP", "scrollDirection"]
+- !private ["s23CustomStringConvertibleP", "sin"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "transform3D"]
+- !private ["s23CustomStringConvertibleP", "type"]
+- !private ["s23CustomStringConvertibleP", "zIndex"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "a"]
+- !private ["s9DecodableP", "d"]
+- !private ["s9DecodableP", "greatestFiniteMagnitude"]
+- !private ["s9DecodableP", "hashValue"]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "identity"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "min"]
+- !private ["s9DecodableP", "pi"]
+- !private ["s9DecodableP", "rotated"]
+- !private ["s9DecodableP", "translatedBy"]
+- !private ["s9DecodableP", "tx"]
+- !private ["s9DecodableP", "ty"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9DecodableP", "x"]
+- !private ["s9DecodableP", "y"]
+- !private ["Sd", "pi"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "a"]
+- !private ["s9EncodableP", "d"]
+- !private ["s9EncodableP", "greatestFiniteMagnitude"]
+- !private ["s9EncodableP", "hashValue"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "identity"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "min"]
+- !private ["s9EncodableP", "pi"]
+- !private ["s9EncodableP", "rotated"]
+- !private ["s9EncodableP", "translatedBy"]
+- !private ["s9EncodableP", "tx"]
+- !private ["s9EncodableP", "ty"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EncodableP", "x"]
+- !private ["s9EncodableP", "y"]
+- !private ["s9EquatableP", "CATransform3DIdentity"]
+- !private ["s9EquatableP", "CATransform3DRotate"]
+- !private ["s9EquatableP", "CATransform3DTranslate"]
+- !private ["s9EquatableP", "CGAffineTransform"]
+- !private ["s9EquatableP", "CGFloat"]
+- !private ["s9EquatableP", "Int"]
+- ["s9EquatableP", "RawValue"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "a"]
+- !private ["s9EquatableP", "abs"]
+- !private ["s9EquatableP", "alpha"]
+- !private ["s9EquatableP", "bounds"]
+- !private ["s9EquatableP", "center"]
+- ["s9EquatableP", "coverFlow"]
+- ["s9EquatableP", "crossFading"]
+- ["s9EquatableP", "cubic"]
+- !private ["s9EquatableP", "d"]
+- ["s9EquatableP", "depth"]
+- ["s9EquatableP", "ferrisWheel"]
+- !private ["s9EquatableP", "greatestFiniteMagnitude"]
+- ["s9EquatableP", "hashValue"]
+- !private ["s9EquatableP", "height"]
+- ["s9EquatableP", "horizontal"]
+- !private ["s9EquatableP", "identity"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "interitemSpacing"]
+- ["s9EquatableP", "invertedFerrisWheel"]
+- !private ["s9EquatableP", "itemSize"]
+- ["s9EquatableP", "linear"]
+- !private ["s9EquatableP", "max"]
+- !private ["s9EquatableP", "min"]
+- !private ["s9EquatableP", "minimumAlpha"]
+- !private ["s9EquatableP", "minimumScale"]
+- ["s9EquatableP", "overlap"]
+- !private ["s9EquatableP", "pagerView"]
+- !private ["s9EquatableP", "pi"]
+- !private ["s9EquatableP", "position"]
+- !private ["s9EquatableP", "proposedInteritemSpacing"]
+- ["s9EquatableP", "rawValue"]
+- !private ["s9EquatableP", "rotated"]
+- !private ["s9EquatableP", "scrollDirection"]
+- !private ["s9EquatableP", "sin"]
+- !private ["s9EquatableP", "transform"]
+- !private ["s9EquatableP", "transform3D"]
+- !private ["s9EquatableP", "translatedBy"]
+- !private ["s9EquatableP", "tx"]
+- !private ["s9EquatableP", "ty"]
+- !private ["s9EquatableP", "type"]
+- ["s9EquatableP", "vertical"]
+- !private ["s9EquatableP", "width"]
+- !private ["s9EquatableP", "x"]
+- !private ["s9EquatableP", "y"]
+- !private ["s9EquatableP", "zIndex"]
+- ["s9EquatableP", "zoomOut"]
+- ["s9EquatableP", ""]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "greatestFiniteMagnitude"]
+- !private ["s25ExpressibleByFloatLiteralP", "init"]
+- !private ["s25ExpressibleByFloatLiteralP", "pi"]
+- !private ["s27ExpressibleByIntegerLiteralP", "greatestFiniteMagnitude"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hashValue"]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", "min"]
+- !private ["s27ExpressibleByIntegerLiteralP", "pi"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["11FSPagerViewAAC", "interitemSpacing"]
+- !private ["11FSPagerViewAAC", "itemSize"]
+- !private ["11FSPagerViewAAC", "scrollDirection"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "alpha"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "bounds"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "center"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "deinit"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "position"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "transform"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "transform3D"]
+- !private ["11FSPagerView0aB16LayoutAttributesC", "zIndex"]
+- !private ["11FSPagerView0aB15ScrollDirectionO", "deinit"]
+- ["11FSPagerView0aB15ScrollDirectionO", "horizontal"]
+- ["11FSPagerView0aB15ScrollDirectionO", "vertical"]
+- !private ["11FSPagerView0aB11TransformerC", "CATransform3DIdentity"]
+- !private ["11FSPagerView0aB11TransformerC", "CATransform3DRotate"]
+- !private ["11FSPagerView0aB11TransformerC", "CATransform3DTranslate"]
+- !private ["11FSPagerView0aB11TransformerC", "CGAffineTransform"]
+- ["11FSPagerView0aB11TransformerC", "CGFloat"]
+- ["11FSPagerView0aB11TransformerC", "FSPagerView"]
+- ["11FSPagerView0aB11TransformerC", "FSPagerViewLayoutAttributes"]
+- ["11FSPagerView0aB11TransformerC", "FSPagerViewTransformerType"]
+- !private ["11FSPagerView0aB11TransformerC", "Int"]
+- !private ["11FSPagerView0aB11TransformerC", "abs"]
+- ["11FSPagerView0aB11TransformerC", "applyTransform"]
+- ["11FSPagerView0aB11TransformerC", "deinit"]
+- ["11FSPagerView0aB11TransformerC", "init"]
+- !private ["11FSPagerView0aB11TransformerC", "max"]
+- !private ["11FSPagerView0aB11TransformerC", "min"]
+- ["11FSPagerView0aB11TransformerC", "minimumAlpha"]
+- ["11FSPagerView0aB11TransformerC", "minimumScale"]
+- ["11FSPagerView0aB11TransformerC", "pagerView"]
+- ["11FSPagerView0aB11TransformerC", "proposedInteritemSpacing"]
+- !private ["11FSPagerView0aB11TransformerC", "sin"]
+- ["11FSPagerView0aB11TransformerC", "type"]
+- ["11FSPagerView0aB15TransformerTypeO", "RawValue"]
+- ["11FSPagerView0aB15TransformerTypeO", "coverFlow"]
+- ["11FSPagerView0aB15TransformerTypeO", "crossFading"]
+- ["11FSPagerView0aB15TransformerTypeO", "cubic"]
+- ["11FSPagerView0aB15TransformerTypeO", "deinit"]
+- ["11FSPagerView0aB15TransformerTypeO", "depth"]
+- ["11FSPagerView0aB15TransformerTypeO", "ferrisWheel"]
+- ["11FSPagerView0aB15TransformerTypeO", "hashValue"]
+- ["11FSPagerView0aB15TransformerTypeO", "init"]
+- ["11FSPagerView0aB15TransformerTypeO", "invertedFerrisWheel"]
+- ["11FSPagerView0aB15TransformerTypeO", "linear"]
+- ["11FSPagerView0aB15TransformerTypeO", "overlap"]
+- ["11FSPagerView0aB15TransformerTypeO", "rawValue"]
+- ["11FSPagerView0aB15TransformerTypeO", "zoomOut"]
+- !private ["s17FixedWidthIntegerP", "hashValue"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["s17FixedWidthIntegerP", "min"]
+- !private ["s13FloatingPointP", "greatestFiniteMagnitude"]
+- !private ["s13FloatingPointP", "init"]
+- !private ["s13FloatingPointP", "pi"]
+- !private ["s8HashableP", "CATransform3DIdentity"]
+- !private ["s8HashableP", "CATransform3DRotate"]
+- !private ["s8HashableP", "CATransform3DTranslate"]
+- !private ["s8HashableP", "CGAffineTransform"]
+- !private ["s8HashableP", "CGFloat"]
+- !private ["s8HashableP", "Int"]
+- ["s8HashableP", "RawValue"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "abs"]
+- !private ["s8HashableP", "alpha"]
+- !private ["s8HashableP", "bounds"]
+- !private ["s8HashableP", "center"]
+- ["s8HashableP", "coverFlow"]
+- ["s8HashableP", "crossFading"]
+- ["s8HashableP", "cubic"]
+- ["s8HashableP", "depth"]
+- ["s8HashableP", "ferrisWheel"]
+- !private ["s8HashableP", "greatestFiniteMagnitude"]
+- ["s8HashableP", "hashValue"]
+- ["s8HashableP", "horizontal"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "interitemSpacing"]
+- ["s8HashableP", "invertedFerrisWheel"]
+- !private ["s8HashableP", "itemSize"]
+- ["s8HashableP", "linear"]
+- !private ["s8HashableP", "max"]
+- !private ["s8HashableP", "min"]
+- !private ["s8HashableP", "minimumAlpha"]
+- !private ["s8HashableP", "minimumScale"]
+- ["s8HashableP", "overlap"]
+- !private ["s8HashableP", "pagerView"]
+- !private ["s8HashableP", "pi"]
+- !private ["s8HashableP", "position"]
+- !private ["s8HashableP", "proposedInteritemSpacing"]
+- ["s8HashableP", "rawValue"]
+- !private ["s8HashableP", "scrollDirection"]
+- !private ["s8HashableP", "sin"]
+- !private ["s8HashableP", "transform"]
+- !private ["s8HashableP", "transform3D"]
+- !private ["s8HashableP", "type"]
+- ["s8HashableP", "vertical"]
+- !private ["s8HashableP", "zIndex"]
+- ["s8HashableP", "zoomOut"]
+- ["s8HashableP", ""]
+- !private ["Si", "hashValue"]
+- !private ["Si", "init"]
+- !private ["Si", "min"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "hashValue"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "min"]
+- !private ["s25LosslessStringConvertibleP", "pi"]
+- !private ["s10MirrorPathP", "hashValue"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "min"]
+- !private ["So8NSCodingP", "interitemSpacing"]
+- !private ["So8NSCodingP", "itemSize"]
+- !private ["So8NSCodingP", "scrollDirection"]
+- !private ["So9NSCopyingP", "alpha"]
+- !private ["So9NSCopyingP", "bounds"]
+- !private ["So9NSCopyingP", "center"]
+- !private ["So9NSCopyingP", "position"]
+- !private ["So9NSCopyingP", "transform"]
+- !private ["So9NSCopyingP", "transform3D"]
+- !private ["So9NSCopyingP", "zIndex"]
+- !private ["So8NSObjectC", "CATransform3DIdentity"]
+- !private ["So8NSObjectC", "CATransform3DRotate"]
+- !private ["So8NSObjectC", "CATransform3DTranslate"]
+- !private ["So8NSObjectC", "CGAffineTransform"]
+- ["So8NSObjectC", "CGFloat"]
+- ["So8NSObjectC", "FSPagerView"]
+- ["So8NSObjectC", "FSPagerViewLayoutAttributes"]
+- ["So8NSObjectC", "FSPagerViewTransformerType"]
+- !private ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "abs"]
+- !private ["So8NSObjectC", "alpha"]
+- ["So8NSObjectC", "applyTransform"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "center"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "interitemSpacing"]
+- !private ["So8NSObjectC", "itemSize"]
+- !private ["So8NSObjectC", "max"]
+- !private ["So8NSObjectC", "min"]
+- ["So8NSObjectC", "minimumAlpha"]
+- ["So8NSObjectC", "minimumScale"]
+- ["So8NSObjectC", "pagerView"]
+- !private ["So8NSObjectC", "position"]
+- ["So8NSObjectC", "proposedInteritemSpacing"]
+- !private ["So8NSObjectC", "scrollDirection"]
+- !private ["So8NSObjectC", "sin"]
+- !private ["So8NSObjectC", "transform"]
+- !private ["So8NSObjectC", "transform3D"]
+- ["So8NSObjectC", "type"]
+- !private ["So8NSObjectC", "zIndex"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "CATransform3DIdentity"]
+- !private ["So16NSObjectProtocolP", "CATransform3DRotate"]
+- !private ["So16NSObjectProtocolP", "CATransform3DTranslate"]
+- !private ["So16NSObjectProtocolP", "CGAffineTransform"]
+- !private ["So16NSObjectProtocolP", "CGFloat"]
+- !private ["So16NSObjectProtocolP", "Int"]
+- !private ["So16NSObjectProtocolP", "abs"]
+- !private ["So16NSObjectProtocolP", "alpha"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- !private ["So16NSObjectProtocolP", "center"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "interitemSpacing"]
+- !private ["So16NSObjectProtocolP", "itemSize"]
+- !private ["So16NSObjectProtocolP", "max"]
+- !private ["So16NSObjectProtocolP", "min"]
+- !private ["So16NSObjectProtocolP", "minimumAlpha"]
+- !private ["So16NSObjectProtocolP", "minimumScale"]
+- !private ["So16NSObjectProtocolP", "pagerView"]
+- !private ["So16NSObjectProtocolP", "position"]
+- !private ["So16NSObjectProtocolP", "proposedInteritemSpacing"]
+- !private ["So16NSObjectProtocolP", "scrollDirection"]
+- !private ["So16NSObjectProtocolP", "sin"]
+- !private ["So16NSObjectProtocolP", "transform"]
+- !private ["So16NSObjectProtocolP", "transform3D"]
+- !private ["So16NSObjectProtocolP", "type"]
+- !private ["So16NSObjectProtocolP", "zIndex"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["s7NumericP", "greatestFiniteMagnitude"]
+- !private ["s7NumericP", "hashValue"]
+- !private ["s7NumericP", "init"]
+- !private ["s7NumericP", "min"]
+- !private ["s7NumericP", "pi"]
+- ["s16RawRepresentableP", "RawValue"]
+- ["s16RawRepresentableP", "coverFlow"]
+- ["s16RawRepresentableP", "crossFading"]
+- ["s16RawRepresentableP", "cubic"]
+- ["s16RawRepresentableP", "depth"]
+- ["s16RawRepresentableP", "ferrisWheel"]
+- ["s16RawRepresentableP", "hashValue"]
+- ["s16RawRepresentableP", "horizontal"]
+- ["s16RawRepresentableP", "init"]
+- ["s16RawRepresentableP", "invertedFerrisWheel"]
+- ["s16RawRepresentableP", "linear"]
+- ["s16RawRepresentableP", "overlap"]
+- ["s16RawRepresentableP", "rawValue"]
+- ["s16RawRepresentableP", "vertical"]
+- ["s16RawRepresentableP", "zoomOut"]
+- ["s16RawRepresentableP", ""]
+- !private ["s13SignedIntegerP", "hashValue"]
+- !private ["s13SignedIntegerP", "init"]
+- !private ["s13SignedIntegerP", "min"]
+- !private ["s13SignedNumericP", "greatestFiniteMagnitude"]
+- !private ["s13SignedNumericP", "hashValue"]
+- !private ["s13SignedNumericP", "init"]
+- !private ["s13SignedNumericP", "min"]
+- !private ["s13SignedNumericP", "pi"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s10StrideableP", "greatestFiniteMagnitude"]
+- !private ["s10StrideableP", "hashValue"]
+- !private ["s10StrideableP", "init"]
+- !private ["s10StrideableP", "min"]
+- !private ["s10StrideableP", "pi"]
+- !private ["So29UIAccessibilityIdentificationP", "interitemSpacing"]
+- !private ["So29UIAccessibilityIdentificationP", "itemSize"]
+- !private ["So29UIAccessibilityIdentificationP", "scrollDirection"]
+- !private ["So12UIAppearanceP", "interitemSpacing"]
+- !private ["So12UIAppearanceP", "itemSize"]
+- !private ["So12UIAppearanceP", "scrollDirection"]
+- !private ["So21UIAppearanceContainerP", "interitemSpacing"]
+- !private ["So21UIAppearanceContainerP", "itemSize"]
+- !private ["So21UIAppearanceContainerP", "scrollDirection"]
+- !private ["So26UICollectionViewDataSourceP", "interitemSpacing"]
+- !private ["So26UICollectionViewDataSourceP", "itemSize"]
+- !private ["So26UICollectionViewDataSourceP", "scrollDirection"]
+- !private ["So24UICollectionViewDelegateP", "interitemSpacing"]
+- !private ["So24UICollectionViewDelegateP", "itemSize"]
+- !private ["So24UICollectionViewDelegateP", "scrollDirection"]
+- !private ["So32UICollectionViewLayoutAttributesC", "alpha"]
+- !private ["So32UICollectionViewLayoutAttributesC", "bounds"]
+- !private ["So32UICollectionViewLayoutAttributesC", "center"]
+- !private ["So32UICollectionViewLayoutAttributesC", "position"]
+- !private ["So32UICollectionViewLayoutAttributesC", "transform"]
+- !private ["So32UICollectionViewLayoutAttributesC", "transform3D"]
+- !private ["So32UICollectionViewLayoutAttributesC", "zIndex"]
+- !private ["So17UICoordinateSpaceP", "interitemSpacing"]
+- !private ["So17UICoordinateSpaceP", "itemSize"]
+- !private ["So17UICoordinateSpaceP", "scrollDirection"]
+- !private ["So13UIDynamicItemP", "alpha"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "center"]
+- !private ["So13UIDynamicItemP", "interitemSpacing"]
+- !private ["So13UIDynamicItemP", "itemSize"]
+- !private ["So13UIDynamicItemP", "position"]
+- !private ["So13UIDynamicItemP", "scrollDirection"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So13UIDynamicItemP", "transform3D"]
+- !private ["So13UIDynamicItemP", "zIndex"]
+- !private ["So18UIFocusEnvironmentP", "interitemSpacing"]
+- !private ["So18UIFocusEnvironmentP", "itemSize"]
+- !private ["So18UIFocusEnvironmentP", "scrollDirection"]
+- !private ["So11UIFocusItemP", "interitemSpacing"]
+- !private ["So11UIFocusItemP", "itemSize"]
+- !private ["So11UIFocusItemP", "scrollDirection"]
+- !private ["So30UIPasteConfigurationSupportingP", "interitemSpacing"]
+- !private ["So30UIPasteConfigurationSupportingP", "itemSize"]
+- !private ["So30UIPasteConfigurationSupportingP", "scrollDirection"]
+- !private ["So11UIResponderC", "interitemSpacing"]
+- !private ["So11UIResponderC", "itemSize"]
+- !private ["So11UIResponderC", "scrollDirection"]
+- !private ["So30UIResponderStandardEditActionsP", "interitemSpacing"]
+- !private ["So30UIResponderStandardEditActionsP", "itemSize"]
+- !private ["So30UIResponderStandardEditActionsP", "scrollDirection"]
+- !private ["So20UIScrollViewDelegateP", "interitemSpacing"]
+- !private ["So20UIScrollViewDelegateP", "itemSize"]
+- !private ["So20UIScrollViewDelegateP", "scrollDirection"]
+- !private ["So18UITraitEnvironmentP", "interitemSpacing"]
+- !private ["So18UITraitEnvironmentP", "itemSize"]
+- !private ["So18UITraitEnvironmentP", "scrollDirection"]
+- !private ["So6UIViewC", "interitemSpacing"]
+- !private ["So6UIViewC", "itemSize"]
+- !private ["So6UIViewC", "scrollDirection"]
+- !private ["s18_BitwiseOperationsP", "hashValue"]
+- !private ["s18_BitwiseOperationsP", "init"]
+- !private ["s18_BitwiseOperationsP", "min"]
+- !private ["s15_CVarArgAlignedP", "greatestFiniteMagnitude"]
+- !private ["s15_CVarArgAlignedP", "init"]
+- !private ["s15_CVarArgAlignedP", "pi"]
+- !private ["s22_CVarArgPassedAsDoubleP", "greatestFiniteMagnitude"]
+- !private ["s22_CVarArgPassedAsDoubleP", "init"]
+- !private ["s22_CVarArgPassedAsDoubleP", "pi"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "interitemSpacing"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "itemSize"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "scrollDirection"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s33_ExpressibleByBuiltinFloatLiteralP", "pi"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hashValue"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "min"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "pi"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CATransform3DIdentity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CATransform3DRotate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CATransform3DTranslate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGAffineTransform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGFloat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "abs"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alpha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "center"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "interitemSpacing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "itemSize"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "max"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "min"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minimumAlpha"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "minimumScale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pagerView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "position"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "proposedInteritemSpacing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scrollDirection"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sin"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform3D"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "type"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "zIndex"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "a"]
+- !private ["s21_ObjectiveCBridgeableP", "d"]
+- !private ["s21_ObjectiveCBridgeableP", "greatestFiniteMagnitude"]
+- !private ["s21_ObjectiveCBridgeableP", "hashValue"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "identity"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "m34"]
+- !private ["s21_ObjectiveCBridgeableP", "min"]
+- !private ["s21_ObjectiveCBridgeableP", "pi"]
+- !private ["s21_ObjectiveCBridgeableP", "rotated"]
+- !private ["s21_ObjectiveCBridgeableP", "translatedBy"]
+- !private ["s21_ObjectiveCBridgeableP", "tx"]
+- !private ["s21_ObjectiveCBridgeableP", "ty"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s21_ObjectiveCBridgeableP", "x"]
+- !private ["s21_ObjectiveCBridgeableP", "y"]
+- !private ["s11_StrideableP", "greatestFiniteMagnitude"]
+- !private ["s11_StrideableP", "hashValue"]
+- !private ["s11_StrideableP", "init"]
+- !private ["s11_StrideableP", "min"]
+- !private ["s11_StrideableP", "pi"]
+depends-nominal:
+- !private "s19BinaryFloatingPointP"
+- !private "s13BinaryIntegerP"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "SC13CATransform3DV"
+- !private "SC17CGAffineTransformV"
+- !private "12CoreGraphics7CGFloatV"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- !private "SC6CGSizeV"
+- "s7CVarArgP"
+- !private "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "Sd"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s25ExpressibleByFloatLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "11FSPagerViewAAC"
+- !private "11FSPagerView0aB16LayoutAttributesC"
+- "11FSPagerView0aB15ScrollDirectionO"
+- "11FSPagerView0aB11TransformerC"
+- "11FSPagerView0aB15TransformerTypeO"
+- !private "s17FixedWidthIntegerP"
+- !private "s13FloatingPointP"
+- "s8HashableP"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s7NumericP"
+- "s16RawRepresentableP"
+- !private "s13SignedIntegerP"
+- !private "s13SignedNumericP"
+- !private "s12StaticStringV"
+- !private "s10StrideableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So26UICollectionViewDataSourceP"
+- !private "So24UICollectionViewDelegateP"
+- !private "So32UICollectionViewLayoutAttributesC"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So20UIScrollViewDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s18_BitwiseOperationsP"
+- !private "s15_CVarArgAlignedP"
+- !private "s22_CVarArgPassedAsDoubleP"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s33_ExpressibleByBuiltinFloatLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s11_StrideableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/FSPagerView/FSPagerView-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FSPagerView.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "ee83e06b4a570bf10b63f0022e737ce9"

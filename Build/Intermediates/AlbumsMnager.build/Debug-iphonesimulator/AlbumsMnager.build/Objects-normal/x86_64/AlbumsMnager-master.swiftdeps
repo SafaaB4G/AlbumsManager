@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "eebc5910e642daaf8ae85facfe74127d"
+build_time: [1512749030, 849175000]
+inputs:
+  "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ViewController.swift": [1512749027, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/AppDelegate.swift": [1512733362, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/ImageUploadManager.swift": [1512731544, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/AlbumsMnager/PhotoTableViewCell.swift": [1512735025, 0]

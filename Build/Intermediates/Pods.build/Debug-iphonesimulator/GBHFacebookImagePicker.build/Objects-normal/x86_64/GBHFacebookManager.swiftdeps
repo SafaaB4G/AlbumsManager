@@ -1,0 +1,616 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GBHFacebookManager"
+provides-nominal:
+- "22GBHFacebookImagePicker0A7ManagerC"
+provides-member:
+- ["22GBHFacebookImagePicker0A7ManagerC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "=="
+- !private "AnyObject"
+- !private "Array"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- !private "CastingPrecedence"
+- !private "Dictionary"
+- !private "FBSDKAccessToken"
+- !private "FBSDKGraphRequest"
+- !private "FBSDKLoginManager"
+- "GBHFacebookAlbum"
+- !private "GBHFacebookImage"
+- !private "GBHFacebookImagePicker"
+- "GBHFacebookManager"
+- !private "Int"
+- "LoginError"
+- !private "Notification"
+- !private "NotificationCenter"
+- "String"
+- "StringLiteralType"
+- "TernaryPrecedence"
+- "UIViewController"
+- !private "URL"
+- !private "UnicodeScalarType"
+- "Void"
+- !private "print"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "insert"]
+- !private ["s23BidirectionalCollectionP", "append"]
+- !private ["s23BidirectionalCollectionP", "appendingFormat"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "insert"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "appendingFormat"]
+- !private ["s7CVarArgP", "contains"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "declinedPermissions"]
+- !private ["s7CVarArgP", "default"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "insert"]
+- !private ["s7CVarArgP", "isCancelled"]
+- !private ["s7CVarArgP", "logIn"]
+- !private ["s7CVarArgP", "logOut"]
+- !private ["s7CVarArgP", "permissions"]
+- !private ["s7CVarArgP", "pickerConfig"]
+- !private ["s7CVarArgP", "post"]
+- !private ["s7CVarArgP", "start"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "token"]
+- !private ["s7CVarArgP", "tokenString"]
+- !private ["s10CollectionP", "append"]
+- !private ["s10CollectionP", "appendingFormat"]
+- !private ["s10CollectionP", "contains"]
+- !private ["s10CollectionP", "count"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "insert"]
+- !private ["s10CollectionP", "subscript"]
+- !private ["s10ComparableP", "appendingFormat"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Name"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "appendingFormat"]
+- !private ["s28CustomDebugStringConvertibleP", "contains"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "declinedPermissions"]
+- !private ["s28CustomDebugStringConvertibleP", "default"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "insert"]
+- !private ["s28CustomDebugStringConvertibleP", "isCancelled"]
+- !private ["s28CustomDebugStringConvertibleP", "logIn"]
+- !private ["s28CustomDebugStringConvertibleP", "logOut"]
+- !private ["s28CustomDebugStringConvertibleP", "loginCancelled"]
+- !private ["s28CustomDebugStringConvertibleP", "loginFailed"]
+- !private ["s28CustomDebugStringConvertibleP", "permissionDenied"]
+- !private ["s28CustomDebugStringConvertibleP", "permissions"]
+- !private ["s28CustomDebugStringConvertibleP", "pickerConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "post"]
+- !private ["s28CustomDebugStringConvertibleP", "start"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "token"]
+- !private ["s28CustomDebugStringConvertibleP", "tokenString"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "appendingFormat"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "Name"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "appendingFormat"]
+- !private ["s17CustomReflectableP", "contains"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "debugDescription"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "insert"]
+- !private ["s17CustomReflectableP", "loginCancelled"]
+- !private ["s17CustomReflectableP", "loginFailed"]
+- !private ["s17CustomReflectableP", "permissionDenied"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "Name"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendingFormat"]
+- !private ["s23CustomStringConvertibleP", "contains"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "declinedPermissions"]
+- !private ["s23CustomStringConvertibleP", "default"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "insert"]
+- !private ["s23CustomStringConvertibleP", "isCancelled"]
+- !private ["s23CustomStringConvertibleP", "logIn"]
+- !private ["s23CustomStringConvertibleP", "logOut"]
+- !private ["s23CustomStringConvertibleP", "permissions"]
+- !private ["s23CustomStringConvertibleP", "pickerConfig"]
+- !private ["s23CustomStringConvertibleP", "post"]
+- !private ["s23CustomStringConvertibleP", "start"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "token"]
+- !private ["s23CustomStringConvertibleP", "tokenString"]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "append"]
+- !private ["s9DecodableP", "appendingFormat"]
+- !private ["s9DecodableP", "contains"]
+- !private ["s9DecodableP", "count"]
+- !private ["s9DecodableP", "debugDescription"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "insert"]
+- !private ["s9DecodableP", "loginCancelled"]
+- !private ["s9DecodableP", "loginFailed"]
+- !private ["s9DecodableP", "permissionDenied"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s10DictionaryV", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "append"]
+- !private ["s9EncodableP", "appendingFormat"]
+- !private ["s9EncodableP", "contains"]
+- !private ["s9EncodableP", "count"]
+- !private ["s9EncodableP", "debugDescription"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "insert"]
+- !private ["s9EncodableP", "loginCancelled"]
+- !private ["s9EncodableP", "loginFailed"]
+- !private ["s9EncodableP", "permissionDenied"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "ImagePickerDidRetrieveAlbum"]
+- !private ["s9EquatableP", "ImagePickerDidRetriveAlbumPicture"]
+- !private ["s9EquatableP", "Name"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "appendingFormat"]
+- !private ["s9EquatableP", "contains"]
+- !private ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "declinedPermissions"]
+- !private ["s9EquatableP", "default"]
+- ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isCancelled"]
+- !private ["s9EquatableP", "logIn"]
+- !private ["s9EquatableP", "logOut"]
+- !private ["s9EquatableP", "loginCancelled"]
+- !private ["s9EquatableP", "loginFailed"]
+- !private ["s9EquatableP", "permissionDenied"]
+- !private ["s9EquatableP", "permissions"]
+- !private ["s9EquatableP", "pickerConfig"]
+- !private ["s9EquatableP", "post"]
+- !private ["s9EquatableP", "start"]
+- !private ["s9EquatableP", "token"]
+- !private ["s9EquatableP", "tokenString"]
+- !private ["s5ErrorP", "loginCancelled"]
+- !private ["s5ErrorP", "loginFailed"]
+- !private ["s5ErrorP", "permissionDenied"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "contains"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "insert"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "appendingFormat"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "debugDescription"]
+- !private ["s23ExpressibleByNilLiteralP", "loginCancelled"]
+- !private ["s23ExpressibleByNilLiteralP", "loginFailed"]
+- !private ["s23ExpressibleByNilLiteralP", "permissionDenied"]
+- !private ["s26ExpressibleByStringLiteralP", "appendingFormat"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "appendingFormat"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["So16FBSDKAccessTokenC", "current"]
+- !private ["So16FBSDKAccessTokenC", "permissions"]
+- !private ["So16FBSDKAccessTokenC", "tokenString"]
+- !private ["So12FBSDKCopyingP", "current"]
+- !private ["So12FBSDKCopyingP", "permissions"]
+- !private ["So12FBSDKCopyingP", "tokenString"]
+- !private ["So17FBSDKGraphRequestC", "init"]
+- !private ["So17FBSDKGraphRequestC", "start"]
+- !private ["So17FBSDKLoginManagerC", "init"]
+- !private ["So17FBSDKLoginManagerC", "logIn"]
+- !private ["So17FBSDKLoginManagerC", "logOut"]
+- !private ["So28FBSDKLoginManagerLoginResultC", "declinedPermissions"]
+- !private ["So28FBSDKLoginManagerLoginResultC", "isCancelled"]
+- !private ["So28FBSDKLoginManagerLoginResultC", "token"]
+- !private ["22GBHFacebookImagePicker0A5AlbumC", "albumId"]
+- !private ["22GBHFacebookImagePicker0A5AlbumC", "init"]
+- !private ["22GBHFacebookImagePicker0A5AlbumC", "name"]
+- !private ["22GBHFacebookImagePicker0A5AlbumC", "photos"]
+- !private ["22GBHFacebookImagePicker0aB0C", "init"]
+- !private ["22GBHFacebookImagePickerAAC", "pickerConfig"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "AnyObject"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "Bool"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "FBSDKAccessToken"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "FBSDKGraphRequest"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "FBSDKLoginManager"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "GBHFacebookAlbum"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "GBHFacebookImage"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "GBHFacebookImagePicker"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "GBHFacebookManager"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "Int"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "LoginError"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "Notification"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "NotificationCenter"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "String"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "UIViewController"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "URL"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "Void"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "albumList"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "alreadyAddTagged"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "deinit"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "fbAlbumRequest"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "fbAlbumsPictureRequest"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "getProfilePicture"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "idTaggedPhotosAlbum"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "init"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "login"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "logout"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "parseFbAlbumResult"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "parseFbPicture"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "pictureUrl"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "print"]
+- !private ["22GBHFacebookImagePicker0A7ManagerC", "profilePictureUrl"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "reset"]
+- ["22GBHFacebookImagePicker0A7ManagerC", "shared"]
+- !private ["22GBHFacebookImagePicker0aC6ConfigV", "displayTaggedAlbum"]
+- !private ["22GBHFacebookImagePicker0aC6ConfigV", "taggedAlbumName"]
+- !private ["s8HashableP", "ImagePickerDidRetrieveAlbum"]
+- !private ["s8HashableP", "ImagePickerDidRetriveAlbumPicture"]
+- !private ["s8HashableP", "Name"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "appendingFormat"]
+- !private ["s8HashableP", "contains"]
+- !private ["s8HashableP", "current"]
+- !private ["s8HashableP", "declinedPermissions"]
+- !private ["s8HashableP", "default"]
+- ["s8HashableP", "init"]
+- !private ["s8HashableP", "isCancelled"]
+- !private ["s8HashableP", "logIn"]
+- !private ["s8HashableP", "logOut"]
+- !private ["s8HashableP", "loginCancelled"]
+- !private ["s8HashableP", "loginFailed"]
+- !private ["s8HashableP", "permissionDenied"]
+- !private ["s8HashableP", "permissions"]
+- !private ["s8HashableP", "pickerConfig"]
+- !private ["s8HashableP", "post"]
+- !private ["s8HashableP", "start"]
+- !private ["s8HashableP", "token"]
+- !private ["s8HashableP", "tokenString"]
+- !private ["22GBHFacebookImagePicker10LoginErrorO", "loginCancelled"]
+- !private ["22GBHFacebookImagePicker10LoginErrorO", "loginFailed"]
+- !private ["22GBHFacebookImagePicker10LoginErrorO", "permissionDenied"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s25LosslessStringConvertibleP", "appendingFormat"]
+- ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "appendingFormat"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "append"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "insert"]
+- !private ["So8NSCodingP", "appendingFormat"]
+- !private ["So8NSCodingP", "current"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "permissions"]
+- !private ["So8NSCodingP", "tokenString"]
+- !private ["So9NSCopyingP", "appendingFormat"]
+- !private ["So9NSCopyingP", "current"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "permissions"]
+- !private ["So9NSCopyingP", "tokenString"]
+- !private ["So21NSItemProviderReadingP", "appendingFormat"]
+- ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "appendingFormat"]
+- ["So21NSItemProviderWritingP", "init"]
+- !private ["So16NSMutableCopyingP", "appendingFormat"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So8NSObjectC", "appendingFormat"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "declinedPermissions"]
+- !private ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isCancelled"]
+- !private ["So8NSObjectC", "logIn"]
+- !private ["So8NSObjectC", "logOut"]
+- !private ["So8NSObjectC", "permissions"]
+- !private ["So8NSObjectC", "pickerConfig"]
+- !private ["So8NSObjectC", "post"]
+- !private ["So8NSObjectC", "start"]
+- !private ["So8NSObjectC", "token"]
+- !private ["So8NSObjectC", "tokenString"]
+- !private ["So16NSObjectProtocolP", "appendingFormat"]
+- !private ["So16NSObjectProtocolP", "current"]
+- !private ["So16NSObjectProtocolP", "declinedPermissions"]
+- !private ["So16NSObjectProtocolP", "default"]
+- ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isCancelled"]
+- !private ["So16NSObjectProtocolP", "logIn"]
+- !private ["So16NSObjectProtocolP", "logOut"]
+- !private ["So16NSObjectProtocolP", "permissions"]
+- !private ["So16NSObjectProtocolP", "pickerConfig"]
+- !private ["So16NSObjectProtocolP", "post"]
+- !private ["So16NSObjectProtocolP", "start"]
+- !private ["So16NSObjectProtocolP", "token"]
+- !private ["So16NSObjectProtocolP", "tokenString"]
+- !private ["So14NSSecureCodingP", "appendingFormat"]
+- !private ["So14NSSecureCodingP", "current"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "permissions"]
+- !private ["So14NSSecureCodingP", "tokenString"]
+- !private ["So8NSStringC", "appendingFormat"]
+- ["So8NSStringC", "init"]
+- !private ["So14NSNotificationC4NameV", "ImagePickerDidRetrieveAlbum"]
+- !private ["So14NSNotificationC4NameV", "ImagePickerDidRetriveAlbumPicture"]
+- !private ["10Foundation12NotificationV", "Name"]
+- !private ["So18NotificationCenterC", "default"]
+- !private ["So18NotificationCenterC", "post"]
+- !private ["Sq", "debugDescription"]
+- !private ["Sq", "loginCancelled"]
+- !private ["Sq", "loginFailed"]
+- !private ["Sq", "permissionDenied"]
+- !private ["s22RandomAccessCollectionP", "append"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "insert"]
+- !private ["s26RangeReplaceableCollectionP", "append"]
+- !private ["s26RangeReplaceableCollectionP", "appendingFormat"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "insert"]
+- !private ["s16RawRepresentableP", "ImagePickerDidRetrieveAlbum"]
+- !private ["s16RawRepresentableP", "ImagePickerDidRetriveAlbumPicture"]
+- !private ["10Foundation20ReferenceConvertibleP", "Name"]
+- !private ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["s8SequenceP", "append"]
+- !private ["s8SequenceP", "appendingFormat"]
+- !private ["s8SequenceP", "contains"]
+- !private ["s8SequenceP", "count"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "insert"]
+- !private ["s8SequenceP", "subscript"]
+- !private ["s3SetV", "contains"]
+- !private ["s10SetAlgebraP", "contains"]
+- !private ["SS", "appendingFormat"]
+- ["SS", "init"]
+- !private ["s14StringProtocolP", "appendingFormat"]
+- ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "appendingFormat"]
+- ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "appendingFormat"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["10Foundation3URLV", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "insert"]
+- !private ["s23_BidirectionalIndexableP", "append"]
+- !private ["s23_BidirectionalIndexableP", "appendingFormat"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "insert"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "insert"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "appendingFormat"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "appendingFormat"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "appendingFormat"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "appendingFormat"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "appendingFormat"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "appendingFormat"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "append"]
+- !private ["s10_IndexableP", "appendingFormat"]
+- !private ["s10_IndexableP", "contains"]
+- !private ["s10_IndexableP", "count"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "insert"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "append"]
+- !private ["s14_IndexableBaseP", "appendingFormat"]
+- !private ["s14_IndexableBaseP", "contains"]
+- !private ["s14_IndexableBaseP", "count"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "insert"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appendingFormat"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "declinedPermissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isCancelled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "logIn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "logOut"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "permissions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pickerConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "post"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "start"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "token"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tokenString"]
+- !private ["s17_MutableIndexableP", "append"]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "ImagePickerDidRetrieveAlbum"]
+- !private ["s21_ObjectiveCBridgeableP", "ImagePickerDidRetriveAlbumPicture"]
+- !private ["s21_ObjectiveCBridgeableP", "Name"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "appendingFormat"]
+- !private ["s21_ObjectiveCBridgeableP", "contains"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "debugDescription"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "insert"]
+- !private ["s21_ObjectiveCBridgeableP", "loginCancelled"]
+- !private ["s21_ObjectiveCBridgeableP", "loginFailed"]
+- !private ["s21_ObjectiveCBridgeableP", "permissionDenied"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "append"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "insert"]
+- !private ["s26_RangeReplaceableIndexableP", "append"]
+- !private ["s26_RangeReplaceableIndexableP", "appendingFormat"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "insert"]
+- !private ["s20_SwiftNewtypeWrapperP", "ImagePickerDidRetrieveAlbum"]
+- !private ["s20_SwiftNewtypeWrapperP", "ImagePickerDidRetriveAlbumPicture"]
+- !private ["s16_SwiftStringViewP", "appendingFormat"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- !private "s10DictionaryV"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "So16FBSDKAccessTokenC"
+- !private "So12FBSDKCopyingP"
+- !private "So17FBSDKGraphRequestC"
+- !private "So17FBSDKLoginManagerC"
+- !private "So28FBSDKLoginManagerLoginResultC"
+- !private "22GBHFacebookImagePicker0A5AlbumC"
+- !private "22GBHFacebookImagePicker0aB0C"
+- !private "22GBHFacebookImagePickerAAC"
+- "22GBHFacebookImagePicker0A7ManagerC"
+- !private "22GBHFacebookImagePicker0aC6ConfigV"
+- "s8HashableP"
+- !private "22GBHFacebookImagePicker10LoginErrorO"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- !private "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "So14NSNotificationC4NameV"
+- !private "10Foundation12NotificationV"
+- !private "So18NotificationCenterC"
+- !private "Sq"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- !private "s16RawRepresentableP"
+- !private "10Foundation20ReferenceConvertibleP"
+- "s8SequenceP"
+- !private "s3SetV"
+- !private "s10SetAlgebraP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "10Foundation3URLV"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- !private "s20_SwiftNewtypeWrapperP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFURL.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/GBHFacebookImagePicker/GBHFacebookImagePicker-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTask.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFExecutor.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTask+Exceptions.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/Bolts.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/GBHFacebookImagePicker.build/unextended-module.modulemap"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+interface-hash: "26239fb10abf1f3de66703dd7cd77b23"

@@ -1,0 +1,178 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SKCache"
+- "SKDefaultImageCache"
+provides-nominal:
+- "14SKPhotoBrowser7SKCacheC"
+- "14SKPhotoBrowser19SKDefaultImageCacheC"
+provides-member:
+- ["14SKPhotoBrowser7SKCacheC", ""]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- !private "CachedURLResponse"
+- "CastingPrecedence"
+- "Data"
+- "NSCache"
+- "SKCache"
+- "SKCacheable"
+- "SKDefaultImageCache"
+- "SKImageCacheable"
+- !private "SKRequestResponseCacheable"
+- "String"
+- "UIImage"
+- "URLRequest"
+- "URLResponse"
+depends-member:
+- !private ["s7CVarArgP", "data"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "object"]
+- !private ["s7CVarArgP", "removeObject"]
+- !private ["s7CVarArgP", "setObject"]
+- !private ["So17CachedURLResponseC", "data"]
+- !private ["So17CachedURLResponseC", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "data"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "object"]
+- !private ["s28CustomDebugStringConvertibleP", "removeObject"]
+- !private ["s28CustomDebugStringConvertibleP", "setObject"]
+- !private ["s23CustomStringConvertibleP", "data"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "object"]
+- !private ["s23CustomStringConvertibleP", "removeObject"]
+- !private ["s23CustomStringConvertibleP", "setObject"]
+- !private ["s9EquatableP", "data"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "object"]
+- !private ["s9EquatableP", "removeObject"]
+- !private ["s9EquatableP", "setObject"]
+- !private ["s8HashableP", "data"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "object"]
+- !private ["s8HashableP", "removeObject"]
+- !private ["s8HashableP", "setObject"]
+- !private ["So7NSCacheC", "init"]
+- !private ["So7NSCacheC", "object"]
+- !private ["So7NSCacheC", "removeObject"]
+- !private ["So7NSCacheC", "setObject"]
+- !private ["So8NSCodingP", "data"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "data"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- !private ["So8NSObjectC", "data"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "object"]
+- !private ["So8NSObjectC", "removeObject"]
+- !private ["So8NSObjectC", "setObject"]
+- !private ["So16NSObjectProtocolP", "data"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "object"]
+- !private ["So16NSObjectProtocolP", "removeObject"]
+- !private ["So16NSObjectProtocolP", "setObject"]
+- !private ["So14NSSecureCodingP", "data"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["14SKPhotoBrowser7SKCacheC", "CachedURLResponse"]
+- ["14SKPhotoBrowser7SKCacheC", "Data"]
+- ["14SKPhotoBrowser7SKCacheC", "SKCache"]
+- ["14SKPhotoBrowser7SKCacheC", "SKCacheable"]
+- !private ["14SKPhotoBrowser7SKCacheC", "SKDefaultImageCache"]
+- !private ["14SKPhotoBrowser7SKCacheC", "SKImageCacheable"]
+- !private ["14SKPhotoBrowser7SKCacheC", "SKRequestResponseCacheable"]
+- ["14SKPhotoBrowser7SKCacheC", "String"]
+- ["14SKPhotoBrowser7SKCacheC", "UIImage"]
+- ["14SKPhotoBrowser7SKCacheC", "URLRequest"]
+- ["14SKPhotoBrowser7SKCacheC", "URLResponse"]
+- ["14SKPhotoBrowser7SKCacheC", "deinit"]
+- ["14SKPhotoBrowser7SKCacheC", "imageCache"]
+- ["14SKPhotoBrowser7SKCacheC", "imageForKey"]
+- ["14SKPhotoBrowser7SKCacheC", "imageForRequest"]
+- ["14SKPhotoBrowser7SKCacheC", "init"]
+- ["14SKPhotoBrowser7SKCacheC", "removeImageForKey"]
+- ["14SKPhotoBrowser7SKCacheC", "setImage"]
+- ["14SKPhotoBrowser7SKCacheC", "setImageData"]
+- ["14SKPhotoBrowser7SKCacheC", "sharedCache"]
+- !private ["14SKPhotoBrowser11SKCacheableP", "NSCache"]
+- !private ["14SKPhotoBrowser11SKCacheableP", "cache"]
+- !private ["14SKPhotoBrowser11SKCacheableP", "cachedResponseForRequest"]
+- ["14SKPhotoBrowser11SKCacheableP", "imageForKey"]
+- !private ["14SKPhotoBrowser11SKCacheableP", "init"]
+- ["14SKPhotoBrowser11SKCacheableP", "removeImageForKey"]
+- ["14SKPhotoBrowser11SKCacheableP", "setImage"]
+- !private ["14SKPhotoBrowser11SKCacheableP", "storeCachedResponse"]
+- ["14SKPhotoBrowser11SKCacheableP", ""]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "AnyObject"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "NSCache"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "String"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "UIImage"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "cache"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "deinit"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "imageForKey"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "init"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "removeImageForKey"]
+- ["14SKPhotoBrowser19SKDefaultImageCacheC", "setImage"]
+- !private ["14SKPhotoBrowser16SKImageCacheableP", "NSCache"]
+- !private ["14SKPhotoBrowser16SKImageCacheableP", "cache"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "imageForKey"]
+- !private ["14SKPhotoBrowser16SKImageCacheableP", "init"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "removeImageForKey"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "setImage"]
+- ["14SKPhotoBrowser16SKImageCacheableP", ""]
+- !private ["14SKPhotoBrowser26SKRequestResponseCacheableP", "cachedResponseForRequest"]
+- !private ["14SKPhotoBrowser26SKRequestResponseCacheableP", "storeCachedResponse"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So7UIImageC", "init"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "init"]
+- !private ["s26_ExpressibleByImageLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "data"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "object"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "removeObject"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setObject"]
+depends-nominal:
+- !private "s7CVarArgP"
+- !private "So17CachedURLResponseC"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9EquatableP"
+- !private "s8HashableP"
+- !private "So7NSCacheC"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- "14SKPhotoBrowser7SKCacheC"
+- "14SKPhotoBrowser11SKCacheableP"
+- "14SKPhotoBrowser19SKDefaultImageCacheC"
+- "14SKPhotoBrowser16SKImageCacheableP"
+- !private "14SKPhotoBrowser26SKRequestResponseCacheableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/SKPhotoBrowser/SKPhotoBrowser-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/SKPhotoBrowser.build/unextended-module.modulemap"
+interface-hash: "a6511c8be7685f0bedb33f2746d14f7c"

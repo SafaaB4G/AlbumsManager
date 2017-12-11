@@ -1,0 +1,292 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SKIndicatorView"
+provides-nominal:
+- "14SKPhotoBrowser15SKIndicatorViewC"
+provides-member:
+- ["14SKPhotoBrowser15SKIndicatorViewC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "/"
+- "AssignmentPrecedence"
+- !private "CGPoint"
+- "CGRect"
+- "NSCoder"
+- "SKIndicatorView"
+- !private "SKPhotoBrowserOptions"
+- !private "StringLiteralType"
+- "UIActivityIndicatorView"
+depends-member:
+- !private ["So15CALayerDelegateP", "CGPoint"]
+- !private ["So15CALayerDelegateP", "SKPhotoBrowserOptions"]
+- !private ["So15CALayerDelegateP", "activityIndicatorViewStyle"]
+- !private ["So15CALayerDelegateP", "center"]
+- !private ["So15CALayerDelegateP", "color"]
+- !private ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", ""]
+- !private ["SC7CGPointV", "init"]
+- !private ["SC6CGRectV", "height"]
+- !private ["SC6CGRectV", "width"]
+- !private ["s7CVarArgP", "CGPoint"]
+- !private ["s7CVarArgP", "SKPhotoBrowserOptions"]
+- !private ["s7CVarArgP", "activityIndicatorViewStyle"]
+- !private ["s7CVarArgP", "center"]
+- !private ["s7CVarArgP", "color"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "CGPoint"]
+- !private ["s28CustomDebugStringConvertibleP", "SKPhotoBrowserOptions"]
+- !private ["s28CustomDebugStringConvertibleP", "activityIndicatorViewStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "center"]
+- !private ["s28CustomDebugStringConvertibleP", "color"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "CGPoint"]
+- !private ["s23CustomStringConvertibleP", "SKPhotoBrowserOptions"]
+- !private ["s23CustomStringConvertibleP", "activityIndicatorViewStyle"]
+- !private ["s23CustomStringConvertibleP", "center"]
+- !private ["s23CustomStringConvertibleP", "color"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EquatableP", "CGPoint"]
+- !private ["s9EquatableP", "SKPhotoBrowserOptions"]
+- !private ["s9EquatableP", "activityIndicatorViewStyle"]
+- !private ["s9EquatableP", "center"]
+- !private ["s9EquatableP", "color"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "width"]
+- ["s9EquatableP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "CGPoint"]
+- !private ["s8HashableP", "SKPhotoBrowserOptions"]
+- !private ["s8HashableP", "activityIndicatorViewStyle"]
+- !private ["s8HashableP", "center"]
+- !private ["s8HashableP", "color"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "CGPoint"]
+- !private ["So8NSCodingP", "SKPhotoBrowserOptions"]
+- !private ["So8NSCodingP", "activityIndicatorViewStyle"]
+- !private ["So8NSCodingP", "center"]
+- !private ["So8NSCodingP", "color"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSObjectC", "CGPoint"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "NSCoder"]
+- !private ["So8NSObjectC", "SKPhotoBrowserOptions"]
+- !private ["So8NSObjectC", "activityIndicatorViewStyle"]
+- !private ["So8NSObjectC", "center"]
+- !private ["So8NSObjectC", "color"]
+- ["So8NSObjectC", "init"]
+- !private ["So16NSObjectProtocolP", "CGPoint"]
+- !private ["So16NSObjectProtocolP", "SKPhotoBrowserOptions"]
+- !private ["So16NSObjectProtocolP", "activityIndicatorViewStyle"]
+- !private ["So16NSObjectProtocolP", "center"]
+- !private ["So16NSObjectProtocolP", "color"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["14SKPhotoBrowser15SKIndicatorViewC", "CGPoint"]
+- ["14SKPhotoBrowser15SKIndicatorViewC", "CGRect"]
+- ["14SKPhotoBrowser15SKIndicatorViewC", "NSCoder"]
+- !private ["14SKPhotoBrowser15SKIndicatorViewC", "SKPhotoBrowserOptions"]
+- !private ["14SKPhotoBrowser15SKIndicatorViewC", "activityIndicatorViewStyle"]
+- !private ["14SKPhotoBrowser15SKIndicatorViewC", "center"]
+- !private ["14SKPhotoBrowser15SKIndicatorViewC", "color"]
+- ["14SKPhotoBrowser15SKIndicatorViewC", "deinit"]
+- ["14SKPhotoBrowser15SKIndicatorViewC", "init"]
+- !private ["14SKPhotoBrowser0aB7OptionsV", "indicatorColor"]
+- !private ["14SKPhotoBrowser0aB7OptionsV", "indicatorStyle"]
+- !private ["s12StaticStringV", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "CGPoint"]
+- !private ["So29UIAccessibilityIdentificationP", "SKPhotoBrowserOptions"]
+- !private ["So29UIAccessibilityIdentificationP", "activityIndicatorViewStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "center"]
+- !private ["So29UIAccessibilityIdentificationP", "color"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So23UIActivityIndicatorViewC", "CGPoint"]
+- ["So23UIActivityIndicatorViewC", "CGRect"]
+- ["So23UIActivityIndicatorViewC", "NSCoder"]
+- !private ["So23UIActivityIndicatorViewC", "SKPhotoBrowserOptions"]
+- !private ["So23UIActivityIndicatorViewC", "activityIndicatorViewStyle"]
+- !private ["So23UIActivityIndicatorViewC", "center"]
+- !private ["So23UIActivityIndicatorViewC", "color"]
+- ["So23UIActivityIndicatorViewC", "init"]
+- ["So23UIActivityIndicatorViewC", ""]
+- !private ["So12UIAppearanceP", "CGPoint"]
+- !private ["So12UIAppearanceP", "SKPhotoBrowserOptions"]
+- !private ["So12UIAppearanceP", "activityIndicatorViewStyle"]
+- !private ["So12UIAppearanceP", "center"]
+- !private ["So12UIAppearanceP", "color"]
+- !private ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", ""]
+- !private ["So21UIAppearanceContainerP", "CGPoint"]
+- !private ["So21UIAppearanceContainerP", "SKPhotoBrowserOptions"]
+- !private ["So21UIAppearanceContainerP", "activityIndicatorViewStyle"]
+- !private ["So21UIAppearanceContainerP", "center"]
+- !private ["So21UIAppearanceContainerP", "color"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "CGPoint"]
+- !private ["So17UICoordinateSpaceP", "SKPhotoBrowserOptions"]
+- !private ["So17UICoordinateSpaceP", "activityIndicatorViewStyle"]
+- !private ["So17UICoordinateSpaceP", "center"]
+- !private ["So17UICoordinateSpaceP", "color"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So13UIDynamicItemP", "CGPoint"]
+- !private ["So13UIDynamicItemP", "SKPhotoBrowserOptions"]
+- !private ["So13UIDynamicItemP", "activityIndicatorViewStyle"]
+- !private ["So13UIDynamicItemP", "center"]
+- !private ["So13UIDynamicItemP", "color"]
+- !private ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So18UIFocusEnvironmentP", "CGPoint"]
+- !private ["So18UIFocusEnvironmentP", "SKPhotoBrowserOptions"]
+- !private ["So18UIFocusEnvironmentP", "activityIndicatorViewStyle"]
+- !private ["So18UIFocusEnvironmentP", "center"]
+- !private ["So18UIFocusEnvironmentP", "color"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "CGPoint"]
+- !private ["So11UIFocusItemP", "SKPhotoBrowserOptions"]
+- !private ["So11UIFocusItemP", "activityIndicatorViewStyle"]
+- !private ["So11UIFocusItemP", "center"]
+- !private ["So11UIFocusItemP", "color"]
+- !private ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "CGPoint"]
+- !private ["So30UIPasteConfigurationSupportingP", "SKPhotoBrowserOptions"]
+- !private ["So30UIPasteConfigurationSupportingP", "activityIndicatorViewStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "center"]
+- !private ["So30UIPasteConfigurationSupportingP", "color"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "CGPoint"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "NSCoder"]
+- !private ["So11UIResponderC", "SKPhotoBrowserOptions"]
+- !private ["So11UIResponderC", "activityIndicatorViewStyle"]
+- !private ["So11UIResponderC", "center"]
+- !private ["So11UIResponderC", "color"]
+- ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "CGPoint"]
+- !private ["So30UIResponderStandardEditActionsP", "SKPhotoBrowserOptions"]
+- !private ["So30UIResponderStandardEditActionsP", "activityIndicatorViewStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "center"]
+- !private ["So30UIResponderStandardEditActionsP", "color"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So18UITraitEnvironmentP", "CGPoint"]
+- !private ["So18UITraitEnvironmentP", "SKPhotoBrowserOptions"]
+- !private ["So18UITraitEnvironmentP", "activityIndicatorViewStyle"]
+- !private ["So18UITraitEnvironmentP", "center"]
+- !private ["So18UITraitEnvironmentP", "color"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "CGPoint"]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "NSCoder"]
+- !private ["So6UIViewC", "SKPhotoBrowserOptions"]
+- !private ["So6UIViewC", "activityIndicatorViewStyle"]
+- !private ["So6UIViewC", "center"]
+- !private ["So6UIViewC", "color"]
+- ["So6UIViewC", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "CGPoint"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "SKPhotoBrowserOptions"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "activityIndicatorViewStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "center"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "color"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGPoint"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "SKPhotoBrowserOptions"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "activityIndicatorViewStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "center"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "color"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- !private "SC7CGPointV"
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "14SKPhotoBrowser15SKIndicatorViewC"
+- !private "14SKPhotoBrowser0aB7OptionsV"
+- !private "s12StaticStringV"
+- "So29UIAccessibilityIdentificationP"
+- "So23UIActivityIndicatorViewC"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/SKPhotoBrowser/SKPhotoBrowser-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/SKPhotoBrowser.build/unextended-module.modulemap"
+interface-hash: "1f466f7e1190e515060c67110dae6363"

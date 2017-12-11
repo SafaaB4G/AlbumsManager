@@ -1,0 +1,65 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SKCacheable"
+- "SKImageCacheable"
+- "SKRequestResponseCacheable"
+provides-nominal:
+- "14SKPhotoBrowser11SKCacheableP"
+- "14SKPhotoBrowser16SKImageCacheableP"
+- "14SKPhotoBrowser26SKRequestResponseCacheableP"
+provides-member:
+- ["14SKPhotoBrowser11SKCacheableP", ""]
+- ["14SKPhotoBrowser16SKImageCacheableP", ""]
+- ["14SKPhotoBrowser26SKRequestResponseCacheableP", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "CachedURLResponse"
+- "SKCacheable"
+- "SKImageCacheable"
+- "SKRequestResponseCacheable"
+- "String"
+- "UIImage"
+- "URLRequest"
+depends-member:
+- ["14SKPhotoBrowser11SKCacheableP", "CachedURLResponse"]
+- ["14SKPhotoBrowser11SKCacheableP", "String"]
+- ["14SKPhotoBrowser11SKCacheableP", "UIImage"]
+- ["14SKPhotoBrowser11SKCacheableP", "URLRequest"]
+- ["14SKPhotoBrowser11SKCacheableP", "cachedResponseForRequest"]
+- ["14SKPhotoBrowser11SKCacheableP", "imageForKey"]
+- ["14SKPhotoBrowser11SKCacheableP", "removeImageForKey"]
+- ["14SKPhotoBrowser11SKCacheableP", "setImage"]
+- ["14SKPhotoBrowser11SKCacheableP", "storeCachedResponse"]
+- ["14SKPhotoBrowser11SKCacheableP", ""]
+- ["14SKPhotoBrowser16SKImageCacheableP", "String"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "UIImage"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "imageForKey"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "removeImageForKey"]
+- ["14SKPhotoBrowser16SKImageCacheableP", "setImage"]
+- ["14SKPhotoBrowser26SKRequestResponseCacheableP", "CachedURLResponse"]
+- ["14SKPhotoBrowser26SKRequestResponseCacheableP", "URLRequest"]
+- ["14SKPhotoBrowser26SKRequestResponseCacheableP", "cachedResponseForRequest"]
+- ["14SKPhotoBrowser26SKRequestResponseCacheableP", "storeCachedResponse"]
+depends-nominal:
+- "14SKPhotoBrowser11SKCacheableP"
+- "14SKPhotoBrowser16SKImageCacheableP"
+- "14SKPhotoBrowser26SKRequestResponseCacheableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/SKPhotoBrowser/SKPhotoBrowser-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/SKPhotoBrowser.build/unextended-module.modulemap"
+interface-hash: "cad2cc307ea8dc2375555abacd3d3cd4"

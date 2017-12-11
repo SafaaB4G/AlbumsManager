@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "83d1438851597b3c1da317e9fbd83d93"
+build_time: [1512747514, 826676000]
+inputs:
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPageControl.swift": [1512340737, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPagerCollectionView.swift": [1512340737, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPagerView.swift": [1512340737, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPagerViewCell.swift": [1512340737, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPagerViewLayoutAttributes.swift": [1512340737, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPageViewLayout.swift": [1512340737, 0]
+  "/Users/nabil/Downloads/AlbumsMnager/Pods/FSPagerView/Sources/FSPageViewTransformer.swift": [1512340737, 0]

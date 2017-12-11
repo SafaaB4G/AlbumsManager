@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.m \
+  /Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Target\ Support\ Files/FBSDKLoginKit/FBSDKLoginKit-prefix.pch \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h \
+  /Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap \
+  /Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/Bolts.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTask.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTask+Exceptions.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFExecutor.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationToken.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFURL.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLink.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Target\ Support\ Files/Bolts/Bolts-umbrella.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h \
+  /Users/nabil/Downloads/AlbumsMnager/Pods/Target\ Support\ Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h

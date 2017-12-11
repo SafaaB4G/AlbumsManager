@@ -1,0 +1,171 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SKMesurement"
+provides-nominal:
+- "14SKPhotoBrowser12SKMesurementV"
+provides-member:
+- ["14SKPhotoBrowser12SKMesurementV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "/"
+- "=="
+- "Bool"
+- "CGFloat"
+- "SKMesurement"
+- !private "UIApplication"
+- "UIDevice"
+- !private "UIScreen"
+depends-member:
+- !private ["SC6CGRectV", "height"]
+- !private ["SC6CGRectV", "width"]
+- !private ["s7CVarArgP", "bounds"]
+- ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "scale"]
+- !private ["s7CVarArgP", "shared"]
+- !private ["s7CVarArgP", "statusBarFrame"]
+- ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "height"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "scale"]
+- !private ["s28CustomDebugStringConvertibleP", "shared"]
+- !private ["s28CustomDebugStringConvertibleP", "statusBarFrame"]
+- ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s29CustomPlaygroundQuickLookableP", "height"]
+- !private ["s29CustomPlaygroundQuickLookableP", "width"]
+- !private ["s17CustomReflectableP", "height"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "scale"]
+- !private ["s23CustomStringConvertibleP", "shared"]
+- !private ["s23CustomStringConvertibleP", "statusBarFrame"]
+- ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s9DecodableP", "height"]
+- !private ["s9DecodableP", "width"]
+- !private ["s9EncodableP", "height"]
+- !private ["s9EncodableP", "width"]
+- !private ["s9EquatableP", "bounds"]
+- ["s9EquatableP", "current"]
+- !private ["s9EquatableP", "height"]
+- !private ["s9EquatableP", "main"]
+- ["s9EquatableP", "pad"]
+- ["s9EquatableP", "phone"]
+- !private ["s9EquatableP", "scale"]
+- !private ["s9EquatableP", "shared"]
+- !private ["s9EquatableP", "statusBarFrame"]
+- ["s9EquatableP", "userInterfaceIdiom"]
+- !private ["s9EquatableP", "width"]
+- !private ["s8HashableP", "bounds"]
+- ["s8HashableP", "current"]
+- !private ["s8HashableP", "main"]
+- ["s8HashableP", "pad"]
+- ["s8HashableP", "phone"]
+- !private ["s8HashableP", "scale"]
+- !private ["s8HashableP", "shared"]
+- !private ["s8HashableP", "statusBarFrame"]
+- ["s8HashableP", "userInterfaceIdiom"]
+- !private ["So8NSObjectC", "bounds"]
+- ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "scale"]
+- !private ["So8NSObjectC", "shared"]
+- !private ["So8NSObjectC", "statusBarFrame"]
+- ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So16NSObjectProtocolP", "bounds"]
+- ["So16NSObjectProtocolP", "current"]
+- !private ["So16NSObjectProtocolP", "main"]
+- !private ["So16NSObjectProtocolP", "scale"]
+- !private ["So16NSObjectProtocolP", "shared"]
+- !private ["So16NSObjectProtocolP", "statusBarFrame"]
+- ["So16NSObjectProtocolP", "userInterfaceIdiom"]
+- ["s16RawRepresentableP", "pad"]
+- ["s16RawRepresentableP", "phone"]
+- ["14SKPhotoBrowser12SKMesurementV", "Bool"]
+- ["14SKPhotoBrowser12SKMesurementV", "CGFloat"]
+- !private ["14SKPhotoBrowser12SKMesurementV", "UIApplication"]
+- ["14SKPhotoBrowser12SKMesurementV", "UIDevice"]
+- !private ["14SKPhotoBrowser12SKMesurementV", "UIScreen"]
+- ["14SKPhotoBrowser12SKMesurementV", "init"]
+- ["14SKPhotoBrowser12SKMesurementV", "isPad"]
+- ["14SKPhotoBrowser12SKMesurementV", "isPhone"]
+- ["14SKPhotoBrowser12SKMesurementV", "screenHeight"]
+- ["14SKPhotoBrowser12SKMesurementV", "screenRatio"]
+- ["14SKPhotoBrowser12SKMesurementV", "screenScale"]
+- ["14SKPhotoBrowser12SKMesurementV", "screenWidth"]
+- ["14SKPhotoBrowser12SKMesurementV", "statusBarH"]
+- !private ["So13UIApplicationC", "shared"]
+- !private ["So13UIApplicationC", "statusBarFrame"]
+- ["So8UIDeviceC", "current"]
+- ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["So30UIPasteConfigurationSupportingP", "shared"]
+- !private ["So30UIPasteConfigurationSupportingP", "statusBarFrame"]
+- !private ["So11UIResponderC", "shared"]
+- !private ["So11UIResponderC", "statusBarFrame"]
+- !private ["So30UIResponderStandardEditActionsP", "shared"]
+- !private ["So30UIResponderStandardEditActionsP", "statusBarFrame"]
+- !private ["So8UIScreenC", "bounds"]
+- !private ["So8UIScreenC", "main"]
+- !private ["So8UIScreenC", "scale"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "main"]
+- !private ["So18UITraitEnvironmentP", "scale"]
+- ["SC20UIUserInterfaceIdiomO", "pad"]
+- ["SC20UIUserInterfaceIdiomO", "phone"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shared"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "statusBarFrame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["s21_ObjectiveCBridgeableP", "height"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+depends-nominal:
+- !private "SC6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "s16RawRepresentableP"
+- "14SKPhotoBrowser12SKMesurementV"
+- !private "So13UIApplicationC"
+- "So8UIDeviceC"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So8UIScreenC"
+- !private "So18UITraitEnvironmentP"
+- "SC20UIUserInterfaceIdiomO"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/SKPhotoBrowser/SKPhotoBrowser-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/SKPhotoBrowser/SKPhotoBrowser/SKPhotoBrowser.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/SKPhotoBrowser.build/unextended-module.modulemap"
+interface-hash: "49ee7b847ea846192c04da4e2f0ecdce"

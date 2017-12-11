@@ -1,0 +1,367 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GBHFacebookNavigationController"
+provides-nominal:
+- "22GBHFacebookImagePicker0A20NavigationControllerC"
+provides-member:
+- ["22GBHFacebookImagePicker0A20NavigationControllerC", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "Dictionary"
+- !private "GBHFacebookImagePicker"
+- "GBHFacebookNavigationController"
+- !private "NSAttributedStringKey"
+- "UINavigationController"
+depends-member:
+- !private ["So15CALayerDelegateP", "barTintColor"]
+- !private ["So15CALayerDelegateP", "isTranslucent"]
+- !private ["So15CALayerDelegateP", "tintColor"]
+- !private ["So15CALayerDelegateP", "titleTextAttributes"]
+- !private ["s7CVarArgP", "GBHFacebookImagePicker"]
+- !private ["s7CVarArgP", "NSAttributedStringKey"]
+- !private ["s7CVarArgP", "barTintColor"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isTranslucent"]
+- !private ["s7CVarArgP", "navigationBar"]
+- !private ["s7CVarArgP", "pickerConfig"]
+- !private ["s7CVarArgP", "tintColor"]
+- !private ["s7CVarArgP", "titleTextAttributes"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "GBHFacebookImagePicker"]
+- !private ["s28CustomDebugStringConvertibleP", "NSAttributedStringKey"]
+- !private ["s28CustomDebugStringConvertibleP", "barTintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isTranslucent"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationBar"]
+- !private ["s28CustomDebugStringConvertibleP", "pickerConfig"]
+- !private ["s28CustomDebugStringConvertibleP", "tintColor"]
+- !private ["s28CustomDebugStringConvertibleP", "titleTextAttributes"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "GBHFacebookImagePicker"]
+- !private ["s23CustomStringConvertibleP", "NSAttributedStringKey"]
+- !private ["s23CustomStringConvertibleP", "barTintColor"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isTranslucent"]
+- !private ["s23CustomStringConvertibleP", "navigationBar"]
+- !private ["s23CustomStringConvertibleP", "pickerConfig"]
+- !private ["s23CustomStringConvertibleP", "tintColor"]
+- !private ["s23CustomStringConvertibleP", "titleTextAttributes"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "GBHFacebookImagePicker"]
+- !private ["s9EquatableP", "NSAttributedStringKey"]
+- !private ["s9EquatableP", "barTintColor"]
+- !private ["s9EquatableP", "foregroundColor"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "isTranslucent"]
+- !private ["s9EquatableP", "navigationBar"]
+- !private ["s9EquatableP", "pickerConfig"]
+- !private ["s9EquatableP", "tintColor"]
+- !private ["s9EquatableP", "titleTextAttributes"]
+- !private ["s9EquatableP", "viewDidLoad"]
+- ["s9EquatableP", ""]
+- !private ["22GBHFacebookImagePickerAAC", "pickerConfig"]
+- !private ["22GBHFacebookImagePicker0A20NavigationControllerC", "GBHFacebookImagePicker"]
+- !private ["22GBHFacebookImagePicker0A20NavigationControllerC", "NSAttributedStringKey"]
+- ["22GBHFacebookImagePicker0A20NavigationControllerC", "deinit"]
+- ["22GBHFacebookImagePicker0A20NavigationControllerC", "init"]
+- !private ["22GBHFacebookImagePicker0A20NavigationControllerC", "navigationBar"]
+- ["22GBHFacebookImagePicker0A20NavigationControllerC", "viewDidLoad"]
+- !private ["22GBHFacebookImagePicker0aC6ConfigV", "uiConfig"]
+- !private ["s8HashableP", "GBHFacebookImagePicker"]
+- !private ["s8HashableP", "NSAttributedStringKey"]
+- !private ["s8HashableP", "barTintColor"]
+- !private ["s8HashableP", "foregroundColor"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "isTranslucent"]
+- !private ["s8HashableP", "navigationBar"]
+- !private ["s8HashableP", "pickerConfig"]
+- !private ["s8HashableP", "tintColor"]
+- !private ["s8HashableP", "titleTextAttributes"]
+- !private ["s8HashableP", "viewDidLoad"]
+- ["s8HashableP", ""]
+- !private ["SC21NSAttributedStringKeyV", "foregroundColor"]
+- !private ["So8NSCodingP", "GBHFacebookImagePicker"]
+- !private ["So8NSCodingP", "NSAttributedStringKey"]
+- !private ["So8NSCodingP", "barTintColor"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isTranslucent"]
+- !private ["So8NSCodingP", "navigationBar"]
+- !private ["So8NSCodingP", "tintColor"]
+- !private ["So8NSCodingP", "titleTextAttributes"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- ["So8NSCodingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "GBHFacebookImagePicker"]
+- !private ["So26NSExtensionRequestHandlingP", "NSAttributedStringKey"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationBar"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So8NSObjectC", "GBHFacebookImagePicker"]
+- !private ["So8NSObjectC", "NSAttributedStringKey"]
+- !private ["So8NSObjectC", "barTintColor"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isTranslucent"]
+- !private ["So8NSObjectC", "navigationBar"]
+- !private ["So8NSObjectC", "pickerConfig"]
+- !private ["So8NSObjectC", "tintColor"]
+- !private ["So8NSObjectC", "titleTextAttributes"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So16NSObjectProtocolP", "GBHFacebookImagePicker"]
+- !private ["So16NSObjectProtocolP", "NSAttributedStringKey"]
+- !private ["So16NSObjectProtocolP", "barTintColor"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "isTranslucent"]
+- !private ["So16NSObjectProtocolP", "navigationBar"]
+- !private ["So16NSObjectProtocolP", "pickerConfig"]
+- !private ["So16NSObjectProtocolP", "tintColor"]
+- !private ["So16NSObjectProtocolP", "titleTextAttributes"]
+- !private ["So16NSObjectProtocolP", "viewDidLoad"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["s16RawRepresentableP", "foregroundColor"]
+- !private ["So29UIAccessibilityIdentificationP", "barTintColor"]
+- !private ["So29UIAccessibilityIdentificationP", "isTranslucent"]
+- !private ["So29UIAccessibilityIdentificationP", "tintColor"]
+- !private ["So29UIAccessibilityIdentificationP", "titleTextAttributes"]
+- !private ["So12UIAppearanceP", "barTintColor"]
+- !private ["So12UIAppearanceP", "isTranslucent"]
+- !private ["So12UIAppearanceP", "tintColor"]
+- !private ["So12UIAppearanceP", "titleTextAttributes"]
+- !private ["So21UIAppearanceContainerP", "GBHFacebookImagePicker"]
+- !private ["So21UIAppearanceContainerP", "NSAttributedStringKey"]
+- !private ["So21UIAppearanceContainerP", "barTintColor"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isTranslucent"]
+- !private ["So21UIAppearanceContainerP", "navigationBar"]
+- !private ["So21UIAppearanceContainerP", "tintColor"]
+- !private ["So21UIAppearanceContainerP", "titleTextAttributes"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So16UIBarPositioningP", "barTintColor"]
+- !private ["So16UIBarPositioningP", "isTranslucent"]
+- !private ["So16UIBarPositioningP", "tintColor"]
+- !private ["So16UIBarPositioningP", "titleTextAttributes"]
+- !private ["22GBHFacebookImagePicker0aC6ConfigV8UIConfigV", "navBarTintColor"]
+- !private ["22GBHFacebookImagePicker0aC6ConfigV8UIConfigV", "navTintColor"]
+- !private ["22GBHFacebookImagePicker0aC6ConfigV8UIConfigV", "navTitleColor"]
+- !private ["So18UIContentContainerP", "GBHFacebookImagePicker"]
+- !private ["So18UIContentContainerP", "NSAttributedStringKey"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "navigationBar"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "barTintColor"]
+- !private ["So17UICoordinateSpaceP", "isTranslucent"]
+- !private ["So17UICoordinateSpaceP", "tintColor"]
+- !private ["So17UICoordinateSpaceP", "titleTextAttributes"]
+- !private ["So13UIDynamicItemP", "barTintColor"]
+- !private ["So13UIDynamicItemP", "isTranslucent"]
+- !private ["So13UIDynamicItemP", "tintColor"]
+- !private ["So13UIDynamicItemP", "titleTextAttributes"]
+- !private ["So18UIFocusEnvironmentP", "GBHFacebookImagePicker"]
+- !private ["So18UIFocusEnvironmentP", "NSAttributedStringKey"]
+- !private ["So18UIFocusEnvironmentP", "barTintColor"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isTranslucent"]
+- !private ["So18UIFocusEnvironmentP", "navigationBar"]
+- !private ["So18UIFocusEnvironmentP", "tintColor"]
+- !private ["So18UIFocusEnvironmentP", "titleTextAttributes"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "barTintColor"]
+- !private ["So11UIFocusItemP", "isTranslucent"]
+- !private ["So11UIFocusItemP", "tintColor"]
+- !private ["So11UIFocusItemP", "titleTextAttributes"]
+- !private ["So15UINavigationBarC", "barTintColor"]
+- !private ["So15UINavigationBarC", "isTranslucent"]
+- !private ["So15UINavigationBarC", "tintColor"]
+- !private ["So15UINavigationBarC", "titleTextAttributes"]
+- !private ["So22UINavigationControllerC", "GBHFacebookImagePicker"]
+- !private ["So22UINavigationControllerC", "NSAttributedStringKey"]
+- ["So22UINavigationControllerC", "init"]
+- !private ["So22UINavigationControllerC", "navigationBar"]
+- ["So22UINavigationControllerC", "viewDidLoad"]
+- ["So22UINavigationControllerC", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "GBHFacebookImagePicker"]
+- !private ["So30UIPasteConfigurationSupportingP", "NSAttributedStringKey"]
+- !private ["So30UIPasteConfigurationSupportingP", "barTintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isTranslucent"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "tintColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleTextAttributes"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So11UIResponderC", "GBHFacebookImagePicker"]
+- !private ["So11UIResponderC", "NSAttributedStringKey"]
+- !private ["So11UIResponderC", "barTintColor"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isTranslucent"]
+- !private ["So11UIResponderC", "navigationBar"]
+- !private ["So11UIResponderC", "tintColor"]
+- !private ["So11UIResponderC", "titleTextAttributes"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "GBHFacebookImagePicker"]
+- !private ["So30UIResponderStandardEditActionsP", "NSAttributedStringKey"]
+- !private ["So30UIResponderStandardEditActionsP", "barTintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isTranslucent"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationBar"]
+- !private ["So30UIResponderStandardEditActionsP", "tintColor"]
+- !private ["So30UIResponderStandardEditActionsP", "titleTextAttributes"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So16UIStateRestoringP", "GBHFacebookImagePicker"]
+- !private ["So16UIStateRestoringP", "NSAttributedStringKey"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "navigationBar"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So18UITraitEnvironmentP", "GBHFacebookImagePicker"]
+- !private ["So18UITraitEnvironmentP", "NSAttributedStringKey"]
+- !private ["So18UITraitEnvironmentP", "barTintColor"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isTranslucent"]
+- !private ["So18UITraitEnvironmentP", "navigationBar"]
+- !private ["So18UITraitEnvironmentP", "tintColor"]
+- !private ["So18UITraitEnvironmentP", "titleTextAttributes"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So6UIViewC", "barTintColor"]
+- !private ["So6UIViewC", "isTranslucent"]
+- !private ["So6UIViewC", "tintColor"]
+- !private ["So6UIViewC", "titleTextAttributes"]
+- !private ["So16UIViewControllerC", "GBHFacebookImagePicker"]
+- !private ["So16UIViewControllerC", "NSAttributedStringKey"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationBar"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "barTintColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isTranslucent"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "tintColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "titleTextAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GBHFacebookImagePicker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSAttributedStringKey"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barTintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isTranslucent"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pickerConfig"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tintColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleTextAttributes"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s21_ObjectiveCBridgeableP", "foregroundColor"]
+- !private ["s20_SwiftNewtypeWrapperP", "foregroundColor"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- !private "22GBHFacebookImagePickerAAC"
+- "22GBHFacebookImagePicker0A20NavigationControllerC"
+- !private "22GBHFacebookImagePicker0aC6ConfigV"
+- "s8HashableP"
+- !private "SC21NSAttributedStringKeyV"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "s16RawRepresentableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So16UIBarPositioningP"
+- !private "22GBHFacebookImagePicker0aC6ConfigV8UIConfigV"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So15UINavigationBarC"
+- "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s20_SwiftNewtypeWrapperP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFURL.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/GBHFacebookImagePicker/GBHFacebookImagePicker-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/Bolts/Bolts-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/FBSDKCoreKit/FBSDKCoreKit-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Target Support Files/FBSDKLoginKit/FBSDKLoginKit-umbrella.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationTokenSource.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTaskCompletionSource.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfile.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKApplicationDelegate.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkResolving.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCopying.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMutableCopying.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLink.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTask.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationToken.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAccessToken.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkNavigation.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFCancellationTokenRegistration.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestConnection.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKButton.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginButton.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManager.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKTestUsersManager.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererController.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkResolver.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFWebViewAppLinkResolver.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFExecutor.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/BFTask+Exceptions.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKMacros.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/Common/Bolts.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKConstants.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginConstants.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppEvents.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkTarget.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginManagerLoginResult.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequestDataAttachment.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFMeasurementEvent.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKGraphRequest.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKProfilePictureView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKTooltipView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginKit/FBSDKLoginTooltipView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/Bolts/Bolts/iOS/BFAppLinkReturnToRefererView.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKUtility.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKAppLinkUtility.h"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/GBHFacebookImagePicker.build/unextended-module.modulemap"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/Bolts.build/module.modulemap"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSDKCoreKit.build/module.modulemap"
+- "/Users/nabil/Downloads/AlbumsMnager/Build/Intermediates/Pods.build/Debug-iphonesimulator/FBSDKLoginKit.build/module.modulemap"
+interface-hash: "2366575248b20ae518a950eb574dbc4e"
